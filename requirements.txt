@@ -1,0 +1,8 @@
+tensorflow==2.9.1
+scipy==1.10.1
+jupyter-client==8.6.3
+jupyter-core==5.7.2
+keras==2.9.0
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
